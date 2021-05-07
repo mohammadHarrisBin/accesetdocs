@@ -8,15 +8,15 @@
 * `mkdocs -h` - Print help message and exit. -->
 
 # We have separated the docs based on your roles, which one are you?
- - [`Seeker`](site/seeker/)
- - [`Befriender`](site/befriender)
- - [`Moderator`](site/moderator)
- - [`Befriender Level 2 / counsellor`](site/befriender2)
+ - [`Seeker`](/seeker)
+ - [`Befriender`](/befriender)
+ - [`Moderator`](/moderator)
+ - [`Befriender Level 2 / counsellor`](/befriender2)
  
 
 # OTHERS
-  - [`Common features`](site/common)
-  - [`Developer`](site/developer)
+  - [`Common features`](/common)
+  - [`Developer`](/developer)
   <!-- - [`Admin`](/admin) -->
  
 
